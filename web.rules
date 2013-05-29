@@ -1,0 +1,43 @@
+WEBDIR:
+/
+/web-console
+/fckeditor
+/server-status
+/tomcat
+/jboss
+/admin
+/cacti
+/mrtg
+/up.php
+/up.jsp
+/upload.php
+/upload.jsp
+/up
+/up/up.php
+/up/up.jsp
+/up/upload.jsp
+/up/upload.php
+/upload/upload/upload.php
+/upload/upload.jsp
+/upload/up.php
+/upload/up.jsp
+/jmx-console
+/db
+
+
+WEBCONTENT:
+BIG-IP
+Scoreboard
+multipart/form-data
+MRTG
+Cacti
+<title>Index of
+nagios
+<drac>
+Directory Listing For
+Citrix Login
+Citrix NetScaler
+Remote Access Controller
+Apache Tomcat
+Welcome to JBoss
+web-console
